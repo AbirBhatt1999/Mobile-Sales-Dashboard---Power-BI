@@ -71,5 +71,21 @@ This dashboard enables better:
 
 ---
 
+## 👨‍💻 Author
 
+**Zero Analyst — Abir Bhattacharjee**  
+Aspiring Data Analyst | Power BI & SQL Enthusiast  
+
+I’m passionate about transforming raw data into meaningful insights through  
+**Business Intelligence, Data Visualization, and Data Storytelling**.
+
+This project strengthens my **Power BI & Analytical Skills** and is part of my professional  
+portfolio focused on real-world **Data Analytics** solutions.
+
+---
+
+ **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/abir-bhattacharjee-13386028b)  
+- [GitHub](https://github.com/AbirBhatt1999)  
+-  Email: [abirbhattacharjee2018@gmail.com](mailto:abirbhattacharjee2018@gmail.com)
 
