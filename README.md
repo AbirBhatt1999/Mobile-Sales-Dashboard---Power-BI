@@ -39,7 +39,8 @@ This dashboard enables better:
 
 > *(Add your screenshot images here — save them in a folder named `Screenshots/` and update the links below)*
 
-![Dashboard View](./Screenshots/Screenshot.png)
+![Dashboard View](./Screenshot/Screenshot.png)
+
 
 
 ---
