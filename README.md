@@ -37,7 +37,7 @@ This dashboard enables better:
 
 ## 📷 Dashboard Preview
 
-> *(Add your screenshot images here — save them in a folder named `Screenshots/` and update the links below)*
+
 
 ![Dashboard View](Screenshot.png)
 
